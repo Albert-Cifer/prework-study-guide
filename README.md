@@ -2,12 +2,10 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation? Be ready for my next step in my life.
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.") To have a greater understanding in java script.
+- What was your motivation? To have a guide to understand coding a little bit better.
+- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.") To have a greater understanding in coding.
 - What problem does it solve? To know which one is the next study theme.
-- What did you learn? The use of more commands.
+- What did you learn? The use of some tools to publish a small website guide.
 
 ## Installation
 
